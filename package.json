@@ -1,0 +1,14 @@
+{
+  "name": "mok-mzansi-book",
+  "version": "0.1.0",
+  "description": "Mok Mzansi Book Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "dotenv": "^16.5.0"
+  }
+}
